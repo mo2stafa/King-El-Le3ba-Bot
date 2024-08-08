@@ -110,3 +110,6 @@ dmypy.json
 
 # dotenv
 .env
+
+# Firebase Admin SDK service account key
+king-el-le3ba-bot-firebase-adminsdk.json
