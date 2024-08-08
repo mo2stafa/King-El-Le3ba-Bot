@@ -15,7 +15,7 @@ DBLINK = os.environ.get('DBLINK', 3)
 
 
 cred = credentials.Certificate(
-    "king-el-le3ba-bot-firebase-adminsdk.json")
+    "firebase_service_account.json")
 firebase_admin.initialize_app(cred, {
     'databaseURL': DBLINK
 })
