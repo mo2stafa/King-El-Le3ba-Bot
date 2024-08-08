@@ -6,9 +6,14 @@ PIP install -r requirements.txt
 
 PIP freeze > requirements.txt -->
 
-# King-El-Le3ba Bot
+<h1 align="center">
+  <br>
+  King El Le3ba
+  <br>
+</h1>
 
-King-El-Le3ba Bot is a Discord bot that allows users to manage and track scores in a server. It uses the Firebase Realtime Database for storing scores and includes commands for changing scores, viewing leaderboards, and more.
+
+King El Le3ba Bot is a Discord bot that allows users to manage and track scores in a server. It uses the Firebase Realtime Database for storing scores and includes commands for changing scores, viewing leaderboards, and more.
 
 ## Features
 
